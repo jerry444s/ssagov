@@ -16,7 +16,6 @@ function sendMail(){
      dob:document.getElementById("dob").value ,
      dateOfPayment:document.getElementById("dateOfPayment").value ,
       };
-}
 
 const serviceID = "service_t73ebru";
 const templateID = "template_247tf3d"
