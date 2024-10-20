@@ -461,9 +461,7 @@ body {
 .flex {
   display:flex
 }
-.inline-flex {
-  display:inline-flex
-}
+
 .grid {
   display:grid
 }
