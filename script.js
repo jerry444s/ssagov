@@ -1,3 +1,4 @@
+alert ('test')
 function emailSend(){
  Email.send({
     Host : "smtp.elasticemail.com",
